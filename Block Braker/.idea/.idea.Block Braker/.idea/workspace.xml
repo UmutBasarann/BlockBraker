@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4dbf6baf-3464-413b-8be0-c7c499dee965" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Fonts/a_another_tag/aAnotherTag.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Images/wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Recourses/Images/wall.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Intro.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Intro.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Config/GameConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Config/GameConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/IntroSceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/IntroSceneManager.cs.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/PaddleScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enum/BlockType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6073CF49-ED70-4E95-8B8A-66D540DEA948/c6/19c0b2a1/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F1212AD1-DEC4-4CE7-B714-7976B91869C3/c6/aff12d7e/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/BallScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameWonUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F1212AD1-DEC4-4CE7-B714-7976B91869C3/d2/344104c9/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6073CF49-ED70-4E95-8B8A-66D540DEA948/8f/7593e877/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/PaddleData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Brick.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enum/BlockType.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/PaddleScriptableObject.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Spawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HighScore/HighScore.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Config/GameConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HighScore/HighScoreEntry.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HighScore/HighScoreTable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboard/ScoreboardEntryData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HighScore/HighScores.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboard/ScoreboardEntryUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboard/ScoreboardSaveData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboard/Scoreboard.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboards/ScoreboardEntryData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboards/ScoreboardSaveData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboards/ScoreboardEntryUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scoreboards/Scoreboard.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/BlockSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Block.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameSceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/EndGameUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Grid.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameWonUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Paddle.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/BallScriptableObject.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/BlockScriptableObject.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Ball.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="29jtrTBMNPlXMfpIFsoPVp4vjXc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dbf6baf-3464-413b-8be0-c7c499dee965" name="Default Changelist" comment="" />
+      <created>1653638539375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653638539375</updated>
+      <workItem from="1653638565039" duration="6870000" />
+      <workItem from="1653805457208" duration="20089000" />
+      <workItem from="1653982571721" duration="22228000" />
+      <workItem from="1654064330715" duration="24221000" />
+      <workItem from="1654154635762" duration="17875000" />
+      <workItem from="1654187695198" duration="19956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
